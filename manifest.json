@@ -12,6 +12,6 @@
       "48": "iota_icon_48.png"
    },
    "manifest_version": 2,
-   "name": "IOTA Ticker",
+   "name": "IOTA Price Ticker",
    "version": "0.0.1"
 }
