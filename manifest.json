@@ -1,0 +1,17 @@
+{
+   "background": {
+      "page": "ticker.html"
+   },
+   "browser_action": {
+      "default_icon": "iota_icon_48.png"
+   },
+   "description": "This extension shows the latest IOTA price in your browser.",
+   "icons": {
+      "128": "iota_icon_128.png",
+      "16": "iota_icon_16.png",
+      "48": "iota_icon_48.png"
+   },
+   "manifest_version": 2,
+   "name": "IOTA Ticker",
+   "version": "0.0.1"
+}
