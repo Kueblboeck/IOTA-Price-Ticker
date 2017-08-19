@@ -12,6 +12,7 @@ This IOTA Price Ticker receives price updates directly from Bitfinex through a w
 
 ## Todo
 - [ ] Add dropdown showing more detailed price (Chrome limits to 4 characters for badges).
+- [ ] Investigate possibilities to change/regenerate icon instead of text to get around 4 character limitation.
 - [ ] Add 24 hour change in dropdown.
 - [ ] Add graph in dropdown.
 
