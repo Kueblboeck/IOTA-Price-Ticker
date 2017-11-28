@@ -13,5 +13,5 @@
    },
    "manifest_version": 2,
    "name": "IOTA Price Ticker",
-   "version": "0.0.1"
+   "version": "0.0.2"
 }
