@@ -17,4 +17,6 @@ webSocket.listen(function(message) {
 });
 
 webSocket.send(request).done(function() {
-}).fail(function(e) { });
+}).fail(function(e) {
+    webSocket = $.simpleWebSocket({ url: 'wss://api.bitfinex.com/ws/2/' });
+});
